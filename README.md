@@ -31,6 +31,11 @@ python main.py
 ## Outputs
 <div align="center">
     <a href="./">
+        <img src="https://user-images.githubusercontent.com/68246393/215346055-c1df6d12-8e4f-48c5-99c9-ca154a6a7f5d.jpg" width="59%"/>
+    </a> 
+</div> <br>
+<div align="center">
+    <a href="./">
         <img src="https://user-images.githubusercontent.com/68246393/215345543-ba3cb93d-ac4c-4464-9bce-2ff156bbab3f.jpg" width="59%"/>
     </a> 
 </div> <br>
