@@ -46,11 +46,9 @@ python main.py
 </div> <br>
 <div align="center">
     <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215345550-e0fed5c0-30cf-46a8-b2f0-4b987017bcd0.jpg" width="59%"/>
+        <img src="https://user-images.githubusercontent.com/68246393/215346231-5cd6781e-2cf9-4671-b9f2-b2213de9c1a8.jpg" width="59%"/>
     </a>
-</div> <br>
-
-
+</div>
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request.
