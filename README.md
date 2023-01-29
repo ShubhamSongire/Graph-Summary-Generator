@@ -1,4 +1,4 @@
-# Graph-to-Summary-Generator
+# Graph-Summary-Generator
 A cutting-edge solution for summarizing graph images using deep learning, OCR, and image processing techniques. The system effectively classifies different types of graphs using a CNN model, and writes short summary about graph in a clear and concise paragraph-like format.
 
 ## Features
