@@ -31,8 +31,9 @@ python main.py
 ## Outputs
 <div align="center">
     <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/157185204-87534206-1da4-4a67-bb45-5a9e74c9c2d5.png" width="59%"/>
+        <img src="https://user-images.githubusercontent.com/68246393/215344807-3447efd1-3fb6-4970-8297-b5a396c1b26f.jpeg" width="59%"/>
     </a>
+    
 </div> <br>
 
 ## Contributing
