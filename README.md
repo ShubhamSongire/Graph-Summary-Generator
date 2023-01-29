@@ -31,30 +31,6 @@ python main.py
 ## Outputs
 <div align="center">
     <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215344807-3447efd1-3fb6-4970-8297-b5a396c1b26f.jpeg" width="59%"/>
-    </a> 
-</div> <br>
-<div align="center">
-    <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215344811-be303a43-587a-4526-bc68-74678f55b46f.jpeg" width="59%"/>
-    </a>
-</div> <br>
-<div align="center">
-    <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215344835-b760c632-e59b-46ad-9580-f13b0bdf7669.jpeg" width="59%"/>
-    </a>
-</div> <br>
-
-
-
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please create a pull request.
-
-## License
-This project is licensed under the <a href="https://github.com/ShubhamSongire/Graph-to-Summary-Generator/blob/main/license.txt">MIT License.</a>
-
-<div align="center">
-    <a href="./">
         <img src="https://user-images.githubusercontent.com/68246393/215345543-ba3cb93d-ac4c-4464-9bce-2ff156bbab3f.jpg" width="59%"/>
     </a> 
 </div> <br>
@@ -68,6 +44,11 @@ This project is licensed under the <a href="https://github.com/ShubhamSongire/Gr
         <img src="https://user-images.githubusercontent.com/68246393/215345550-e0fed5c0-30cf-46a8-b2f0-4b987017bcd0.jpg" width="59%"/>
     </a>
 </div> <br>
-![Picture1](https://user-images.githubusercontent.com/68246393/215345543-ba3cb93d-ac4c-4464-9bce-2ff156bbab3f.jpg)
-![Picture2](https://user-images.githubusercontent.com/68246393/215345546-9870dad3-ef5f-43f0-a0cc-12dcab63daed.jpg)
-![Picture3](https://user-images.githubusercontent.com/68246393/215345550-e0fed5c0-30cf-46a8-b2f0-4b987017bcd0.jpg)
+
+
+
+## Contributing
+Contributions are welcome! If you would like to contribute to this project, please create a pull request.
+
+## License
+This project is licensed under the <a href="https://github.com/ShubhamSongire/Graph-to-Summary-Generator/blob/main/license.txt">MIT License.</a>
