@@ -31,8 +31,8 @@ python main.py
 ## Outputs
 <div align="center">
     <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215346055-c1df6d12-8e4f-48c5-99c9-ca154a6a7f5d.jpg" width="59%"/>
-    </a> 
+        <img src="https://user-images.githubusercontent.com/68246393/215345546-9870dad3-ef5f-43f0-a0cc-12dcab63daed.jpg" width="59%"/>
+    </a>
 </div> <br>
 <div align="center">
     <a href="./">
@@ -41,8 +41,8 @@ python main.py
 </div> <br>
 <div align="center">
     <a href="./">
-        <img src="https://user-images.githubusercontent.com/68246393/215345546-9870dad3-ef5f-43f0-a0cc-12dcab63daed.jpg" width="59%"/>
-    </a>
+        <img src="https://user-images.githubusercontent.com/68246393/215346055-c1df6d12-8e4f-48c5-99c9-ca154a6a7f5d.jpg" width="59%"/>
+    </a> 
 </div> <br>
 <div align="center">
     <a href="./">
