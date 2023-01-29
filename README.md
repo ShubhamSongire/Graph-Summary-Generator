@@ -51,4 +51,4 @@ python main.py
 Contributions are welcome! If you would like to contribute to this project, please create a pull request.
 
 ## License
-This project is licensed under the <a href="https://github.com/ShubhamSongire/Graph-to-Summary-Generator/blob/main/license.txt">MIT License.</a>
+This project is licensed under the <a href="https://github.com/ShubhamSongire/Graph-to-Summary-Generator/blob/main/license.txt">License.</a>
