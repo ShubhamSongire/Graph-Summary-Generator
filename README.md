@@ -50,9 +50,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 This project is licensed under the <a href="https://github.com/ShubhamSongire/Graph-to-Summary-Generator/blob/main/license.txt">MIT License.</a>
-
-
-
-![1 (1)](https://user-images.githubusercontent.com/68246393/215344807-3447efd1-3fb6-4970-8297-b5a396c1b26f.jpeg)
-![1 (6)](https://user-images.githubusercontent.com/68246393/215344811-be303a43-587a-4526-bc68-74678f55b46f.jpeg)
-![1 (7)](https://user-images.githubusercontent.com/68246393/215344835-b760c632-e59b-46ad-9580-f13b0bdf7669.jpeg)
