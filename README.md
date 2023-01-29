@@ -15,17 +15,18 @@ AWS OCR
 ## Installation
 Clone this repository to your local machine and run the following commands to install the required packages:
 
-Copy code
+``` shell
 pip install tensorflow
 pip install opencv-python
 pip install numpy
 pip install boto3
+```
 ## Usage
 Run the following command to start the Graph Summary Generator:
 
-css
-Copy code
+``` shell
 python main.py
+```
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request.
 
